@@ -1,14 +1,5 @@
 ### Nautilus Image Converter (ConvertImage.sh)
 
-
-![Fedora Linux Nautilus Snap Images From Videos](screenshots/Fedora SnapImagesFromVideo-0.png "Fedora Linux Nautilus Snap Images From Video - Select videos")
-![Fedora Linux Nautilus Snap Images From Videos](screenshots/Fedora SnapImagesFromVideo-1.png "Fedora Linux Nautilus Snap Images From Videos")
-![Fedora Linux Nautilus Snap Images From Videos](screenshots/Fedora SnapImagesFromVideo-2.png "Fedora Linux Nautilus Snap Images From Videos")
-![Fedora Linux Nautilus Snap Images From Videos](screenshots/Fedora SnapImagesFromVideo-3.png "Fedora Linux Nautilus Snap Images From Videos")
-![Fedora Linux Nautilus Snap Images From Videos](screenshots/Fedora SnapImagesFromVideo-4.png "Fedora Linux Nautilus Snap Images From Videos")
-![Fedora Linux Nautilus Snap Images From Videos](screenshots/Fedora SnapImagesFromVideo-5.png "Fedora Linux Nautilus Snap Images From Videos")
-![Fedora Linux Nautilus Snap Images From Videos](screenshots/Fedora SnapImagesFromVideo-6.png "Fedora Linux Nautilus Snap Images From Videos")
-
 #### Overview
 `SnapImagesFromVideo.sh` is a Bash script that integrates with the Nautilus file manager in Linux, providing a convenient right-click option to extract frames/image files from a Video. Uses `zenity` for graphical interface and `ffprobe` and `ffmpeg` for extraction (they need to be installed in the system), it allows users to easily extract images from the Nautilus File Manager Graphical User Interface.
 
